@@ -1,20 +1,21 @@
-## Timeline Builder
 
-Use Timeline.js to build a timeline! With thanks to the Knight Lab at [NorthWestern University](https://timeline.knightlab.com/).
+![这是图片](preview.png)
 
-While you can use a spreadsheet to build your timeline as per the docs, here's a sample of how to build your timeline using JSON.
+![status](https://github.com/eaglePB2/uhc_timeline/actions/workflows/static.yml/badge.svg)
 
-Run this website locally:
+<hr>
 
-1. Make sure you have Node.js installed.
-2. Fork this repo and place it on your local machine in a folder.
-3. Using the command line, CD (change directory) to the folder: `cd myTimeline`.
-4. Use `http-server` to quickly start up a local server; from your code's folder run `npx http-server`. You should see a timeline of Whitney Houston's amazing and tragic life.
+### Hosted by:
+![Powered By Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-Build your own JSON structures for a new timeline, [following the docs](https://timeline.knightlab.com/docs/json-format.html).
+# Side Project —— UHC 時間軸
+- forked from [this repo](https://github.com/Digital-Humanities-Toolkit/timeline-builder)
+- 同樣也是沒事做的時候，做出來的產物。
+- 更多的情況，其實就只是為了學一下github的fork功能而已。
 
-View this example [timeline](https://digital-humanities-toolkit.github.io/timeline-builder/)
+# 主要内容：
+### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- 以時間軸的方式來排UHC的舉辦日期。
 
-![timeline sample](timeline-example.png)
-
-
+# 目前进度：
+- Index：![](https://geps.dev/progress/100)
